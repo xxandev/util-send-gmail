@@ -1,5 +1,4 @@
 # Binaries for programs and plugins
-*.exe
 *.exe~
 *.dll
 *.so
@@ -13,3 +12,9 @@
 
 # Dependency directories (remove the comment below to include it)
 # vendor/
+
+cmd/*/*.yaml
+cmd/*/*.json
+cmd/*/*.xml
+cmd/*/*.exe
+cmd/*/*.bin
